@@ -1,0 +1,28 @@
+name: MartyMcfly
+favicon: null
+layout_spectrum: 0.8556594077963382
+typography_spectrum: 0.46195890102535486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3518840887118131
+  lightness: 0.08567480323836207
+  saturation: 0.4152256422676146
+  rhythmicContrast: 0.37857017247006297
+purpose: []
